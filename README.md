@@ -1,12 +1,12 @@
 # Java-challenge
 
-Comments - I haven't used the template provided, instead I have used Spring Boot with REST controller.
+I used Spring Boot with REST controller
 
 How to run the application :<br/>
-Clean Maven
-Install Maven
-Run spring-boot:run (Maven goal)
+Clean Maven<br/>
+Install Maven<br/>
+Run spring-boot:run (Maven goal)<br/><br/><br/>
 
-How to run tests suites:
-Run maven goal test
+How to run tests suites:<br/>
+Run maven goal test<br/>
 (2 files : Order Test and Java AssessmentProductTest)
