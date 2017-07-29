@@ -1,0 +1,18 @@
+{
+  "content": [
+    {
+      "productId": 1,
+      "productName": "lux",
+      "unitPrice": 12.0,
+      "unitsInStock": 12,
+      "orderProductSet": []
+    }, {
+      "productId": 2,
+      "productName": "ad",
+      "unitPrice": 12.0,
+      "unitsInStock": 32,
+      "orderProductSet": []
+    }
+    ]
+
+}
