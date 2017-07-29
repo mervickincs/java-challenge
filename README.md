@@ -2,7 +2,7 @@
 
 Comments - I haven't used the template provided, instead I have used Spring Boot with REST controller.
 
-How to run the application :
+How to run the application :<br/>
 Clean Maven
 Install Maven
 Run spring-boot:run (Maven goal)
